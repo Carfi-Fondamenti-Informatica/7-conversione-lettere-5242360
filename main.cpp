@@ -1,5 +1,10 @@
-#include <iostream>
-
-int main(){
-  return 0;
+int main() {
+    char c;
+    cin >>c;
+    if(convertilettera(c)==0){
+        cout<<"errore";
+    }else{
+        cout<<c;
+    }
+    return 0;
 }
