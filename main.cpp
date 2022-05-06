@@ -1,3 +1,4 @@
+include "lib.h"
 int main() {
     char c;
     cin >>c;
