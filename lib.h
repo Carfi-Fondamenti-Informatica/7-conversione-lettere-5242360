@@ -1,1 +1,2 @@
 
+bool convertilettera(char &c);
